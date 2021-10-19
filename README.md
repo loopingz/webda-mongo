@@ -2,4 +2,4 @@
 
 # webda-mongo module
 
-This project allows you to store document into MongoDB
+DEPRECATED: Use [webda.io](github.com/loopingz/webda.io/)
